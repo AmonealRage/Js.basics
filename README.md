@@ -1,2 +1,2 @@
-# Js.basics
-Dodj
+'use strict'
+console.log('hello world')
